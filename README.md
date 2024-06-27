@@ -40,7 +40,7 @@ With this setup, the app is both easy to maintain and extend, providing a solid 
 </p>
 
 <p align="center">
-  <img src="/assets/demo.png" alt="demo" width="70%" height="70%">        
+  <img src="/assets/demo.png" alt="demo" width="80%" height="80%">        
 </p>
 
 ### Demo url:
