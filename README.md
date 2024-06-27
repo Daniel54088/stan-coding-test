@@ -25,11 +25,22 @@
 <h2 id="introduction"> :pencil: Introduction</h2>
 
 <p align="justify"> 
-This project leverages the latest front-end technologies, Next.js 14 and the app router, to create a task management dashboard. Users can create, modify, and delete tickets, as well as search for tickets and assign various labels to facilitate organization. The primary goal of this app is to demonstrate my proficiency in building a deployable, functional dashboard using the newest features of Next.js 14 and TypeScript. This project serves as an assignment for a technical interview, showcasing my capability to utilize cutting-edge technology in a practical application.
+Welcome to the Stan coding test app! This application is built using React with TypeScript, and styled with pure CSS following the BEM (Block, Element, Modifier) naming convention to ensure a clean and maintainable codebase.
+
+Key Features:
+* Series and Movies List: The app fetches and displays a list of series and movies by calling a provided JSON file.
+* Responsive Design: The layout is designed to be user-friendly on both tablets and mobile devices, ensuring a seamless viewing experience across different screen sizes.
+
+Technical Overview:
+* React: Utilized for building a component-based architecture, providing a robust and scalable structure.
+* TypeScript: Ensures type safety, enhances code quality, and improves developer productivity through better tooling and autocompletion.
+* Pure CSS: Employed for styling, keeping the design simple and efficient. The BEM naming strategy is used to maintain clarity and modularity in the CSS.
+
+With this setup, the app is both easy to maintain and extend, providing a solid foundation for further development.
 </p>
 
 <p align="center">
-  <img src="/public/dashboard.png" alt="Table1: 18 Activities" width="70%" height="70%">        
+  <img src="/assets/demo.png" alt="demo" width="70%" height="70%">        
 </p>
 
 ### Demo url:
