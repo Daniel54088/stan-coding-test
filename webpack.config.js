@@ -8,6 +8,7 @@ module.exports = {
   devServer: {
     static: "./dist",
     historyApiFallback: true,
+    allowedHosts: "all",
   },
   module: {
     rules: [
