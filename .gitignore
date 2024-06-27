@@ -1,0 +1,15 @@
+#  dependencies
+node_modules/
+
+
+# IDE or Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+
+#package-lock.json
+package-lock.json
+
+#dist
+dist/

@@ -1,0 +1,21 @@
+@import "./_base.css";
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.layout__header {
+  width: 100%;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 10;
+}
+
+.layout__main {
+  display: flex;
+  flex-direction: column;
+}
