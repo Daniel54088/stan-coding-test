@@ -1,7 +1,7 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom";
-import Entries from "../../src/components/Entries";
+import Entries from "../../src/components/entries";
 import { fetchEntriesData } from "../../src/utils/fetch-entries";
 import { mockEntriesData } from "../utils/mock-data";
 
