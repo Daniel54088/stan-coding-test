@@ -46,19 +46,30 @@ https://4mm3wv-8080.csb.app/
 How did you decide on the technical and architectural choices used as part of your solution?
 * <b>Base</b> <br>
 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
+     * Component-Based : React’s component-based architecture allows for building reusable, modular UI components. This improves code maintainability and reusability.<br>
+     * I personally have more experiences on React, so it is comfortable and easier to use for me.
+
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) <br>
   
 * <b>Code Consistency & Reliability</b> <br>
 
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br>
+     * TypeScript provides static typing, which helps catch errors early in the development process, reducing bugs and improving code quality.
+     * Large-Scale Application Support: TypeScript is helps manage complexity by providing clear interfaces and type definitions, so it will be great if the app goes bigger and bigger.
 
 * <b>Testing tool</b> <br>
 
-  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) <br>
+  * Built-In Assertions and Mocking: Jest comes with built-in assertion and mocking capabilities, making it a comprehensive testing solution without needing additional libraries.
+  * Great Integration with React: Jest integrates seamlessly with React, providing features specifically designed for testing React components.
 
 * <b>Others</b> <br>
-  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) <br>
+  * Development and Production Modes: Webpack provides different configurations for development and production. It helps me develop and deploy quickly.
+  * Asset Management: Webpack can manage and bundle various assets like images, CSS, and fonts.
+  
+  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) <br>
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
