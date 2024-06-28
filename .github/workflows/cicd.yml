@@ -38,3 +38,9 @@ jobs:
         run: docker rm -f stan-code-test
       - name: Run docker container
         run: docker run -d -p 3000:80 --name stan-code-test daniel54088/stan-code-test:latest
+      - name: verify container is running
+        run: docker ps
+      - name: verify container is running
+        run: curl http://localhost:3000
+      - name: Check the Contents of the Nginx Directory
+        run: docker exec -it stan-code-test ls -la /usr/share/nginx/html
