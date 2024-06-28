@@ -4,9 +4,7 @@
   --colour-background-grey: #3a3a3a;
   --colour-white: #fff;
   --colour-media-background: #262626;
-  --font-family: "Gotham SS", "Gotham SS Fallback", "HelveticaNeue-Light",
-    "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande",
-    sans-serif;
+  --font-family: "Rubik", sans-serif;
   --font-weight: 400;
   --font-size: 0.85rem;
   --line-height: 1.5rem;
@@ -45,11 +43,12 @@
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
+  font-optical-sizing: auto;
 }
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-family);
   height: 100%;
   color: var(--colour-white);
 }
