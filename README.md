@@ -44,7 +44,8 @@ With this setup, the app is both easy to maintain and extend, providing a solid 
 </p>
 
 ### Demo url:
-https://cs2l24-8080.csb.app/
+<a href="https://cs2l24-8080.csb.app/" target="_blank">https://cs2l24-8080.csb.app/</a>
+
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
