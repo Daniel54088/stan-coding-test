@@ -44,8 +44,7 @@ With this setup, the app is both easy to maintain and extend, providing a solid 
 </p>
 
 ### Demo url:
-
-https://4mm3wv-8080.csb.app/
+https://cs2l24-8080.csb.app/
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
