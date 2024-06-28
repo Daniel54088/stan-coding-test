@@ -1,10 +1,11 @@
 
 FROM node:alpine3.18 as build
 WORKDIR /app
-COPY package.json .
+COPY package.json package-lock.json ./
 RUN npm install
 COPY . .
 RUN npm run build
+RUN ls -la /app/build 
 
 FROM nginx:1.23-alpine
 WORKDIR /user/share/nginx/html
