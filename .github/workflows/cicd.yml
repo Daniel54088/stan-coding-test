@@ -25,9 +25,6 @@ jobs:
       - name: Build Docker image
         run: docker build -t daniel54088/stan-code-test .
 
-      - name: Verify build output
-        run: ls -la /app/build
-
       - name: Publish image to Docker hub
         run: docker push daniel54088/stan-code-test:latest
 
