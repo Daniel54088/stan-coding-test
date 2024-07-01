@@ -13,10 +13,6 @@ export const fetchEntriesData = async (
     setLoading(true);
     const response = await fetch(endpoint);
     const data: EntryData = await response.json();
-
-    // Simulate a delay of 1 second to show the loading.
-    await new Promise((resolve) => setTimeout(resolve, 1000));
-
     const resultEntries = data.entries
       .filter((entry) => entry.programType === trimmedPath)
       .filter((entry) => entry.releaseYear >= 2010)
