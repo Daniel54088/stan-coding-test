@@ -6,7 +6,7 @@ const Entry = React.memo(
     return (
       <li className="entry" key={title}>
         <div className="entry__image">
-          <img src={imageUrl} alt={title} />
+          <img src={imageUrl} alt={title} loading="lazy" />
         </div>
         <span className="entry__title">{title}</span>
       </li>
