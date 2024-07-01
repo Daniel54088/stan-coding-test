@@ -3,6 +3,7 @@ import { mockEntriesData } from "./mock-data";
 
 const mockSetFilteredEntries = jest.fn();
 const mockSetLoading = jest.fn();
+const mockSetError = jest.fn();
 
 describe("fetchEntriesData", () => {
   beforeEach(() => {
@@ -15,14 +16,24 @@ describe("fetchEntriesData", () => {
   });
 
   test("sets loading state correctly", async () => {
-    await fetchEntriesData("movie", mockSetFilteredEntries, mockSetLoading);
+    await fetchEntriesData(
+      "movie",
+      mockSetFilteredEntries,
+      mockSetLoading,
+      mockSetError
+    );
 
     expect(mockSetLoading).toHaveBeenCalledWith(true);
     expect(mockSetLoading).toHaveBeenCalledWith(false);
   });
 
   test("movie fetches and processes data correctly", async () => {
-    await fetchEntriesData("movie", mockSetFilteredEntries, mockSetLoading);
+    await fetchEntriesData(
+      "movie",
+      mockSetFilteredEntries,
+      mockSetLoading,
+      mockSetError
+    );
 
     expect(mockSetFilteredEntries).toHaveBeenCalledWith([
       {
@@ -44,7 +55,12 @@ describe("fetchEntriesData", () => {
   });
 
   test("series fetches and processes data correctly", async () => {
-    await fetchEntriesData("series", mockSetFilteredEntries, mockSetLoading);
+    await fetchEntriesData(
+      "series",
+      mockSetFilteredEntries,
+      mockSetLoading,
+      mockSetError
+    );
 
     expect(mockSetFilteredEntries).toHaveBeenCalledWith([
       {
