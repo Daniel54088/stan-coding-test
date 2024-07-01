@@ -46,6 +46,9 @@ With this setup, the app is both easy to maintain and extend, providing a solid 
 ### Demo url:
 <a href="https://cs2l24-8080.csb.app/" target="_blank">https://cs2l24-8080.csb.app/</a>
 
+### Codesand box(if demo url is not working): 
+
+<a href="https://codesandbox.io/p/github/Daniel54088/stan-coding-test/main?layout=%257B%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522rootPanelGroup%2522%253A%257B%2522direction%2522%253A%2522horizontal%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522id%2522%253A%2522ROOT_LAYOUT%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522clxws2pge00063b6kx28op86s%2522%252C%2522sizes%2522%253A%255B59.39323220536756%252C40.60676779463244%255D%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522EDITOR%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522id%2522%253A%2522clxws2pge00023b6khdy6qnqz%2522%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522SHELLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522id%2522%253A%2522clxws2pge00043b6k06x1iypz%2522%257D%255D%252C%2522sizes%2522%253A%255B100%255D%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522DEVTOOLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522id%2522%253A%2522clxws2pge00053b6kf8wpdn88%2522%257D%255D%252C%2522sizes%2522%253A%255B100%255D%257D%255D%252C%2522sizes%2522%253A%255B49.93431215071256%252C50.06568784928744%255D%257D%252C%2522tabbedPanels%2522%253A%257B%2522clxws2pge00023b6khdy6qnqz%2522%253A%257B%2522id%2522%253A%2522clxws2pge00023b6khdy6qnqz%2522%252C%2522activeTabId%2522%253A%2522clxws6mk000gp3b6kozqhqfrh%2522%252C%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clxws2pgd00013b6kxzen3dz8%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252FREADME.md%2522%252C%2522state%2522%253A%2522IDLE%2522%257D%252C%257B%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252F.codesandbox%252Ftasks.json%2522%252C%2522id%2522%253A%2522clxws6mk000gp3b6kozqhqfrh%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522state%2522%253A%2522IDLE%2522%257D%255D%257D%252C%2522clxws2pge00053b6kf8wpdn88%2522%253A%257B%2522id%2522%253A%2522clxws2pge00053b6kf8wpdn88%2522%252C%2522activeTabId%2522%253A%2522cly2j8bwt004z3b6kvxka51kd%2522%252C%2522tabs%2522%253A%255B%257B%2522type%2522%253A%2522TASK_PORT%2522%252C%2522port%2522%253A8080%252C%2522taskId%2522%253A%2522start%2522%252C%2522id%2522%253A%2522cly2j8bwt004z3b6kvxka51kd%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522path%2522%253A%2522%252F%2522%257D%255D%257D%252C%2522clxws2pge00043b6k06x1iypz%2522%253A%257B%2522id%2522%253A%2522clxws2pge00043b6k06x1iypz%2522%252C%2522activeTabId%2522%253A%2522clxwvt2kr00ck3b6ke6sgnjyz%2522%252C%2522tabs%2522%253A%255B%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522start%2522%252C%2522id%2522%253A%2522clxwvt2kr00ck3b6ke6sgnjyz%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%255D%257D%257D%252C%2522showDevtools%2522%253Atrue%252C%2522showShells%2522%253Atrue%252C%2522showSidebar%2522%253Atrue%252C%2522sidebarPanelSize%2522%253A15%257D" target="_blank">Codesand box</a>
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -89,29 +92,38 @@ How did you decide on the technical and architectural choices used as part of yo
 <!-- App structure -->
 <h2 id="improvement"> :fork_and_knife: Improvement & Restructure </h2>
 
-* Are there any improvements you could make to your submission?
-1. <b>Create a Responsive Solution for All Tablet and Phone Sizes:</b> <br>
+* <h4>Are there any improvements you could make to your submission?</h4>
+
+    * <b>Create a Responsive Solution for All Tablet and Phone Sizes:</b> <br>
 Customize the UI to ensure it is fully responsive across all tablet and phone sizes. This will enhance the user experience by providing the best possible display on a wide range of devices.<br>
 
-2. <b>Implement Lazy Loading for Components:</b> <br>
+   * <b>Implement Lazy Loading for Components:</b> <br>
 Enable lazy loading for certain components to improve the application's performance. By loading components only when they are needed, we can reduce initial load times and enhance the user experience.<br>
 
-3. <b>Add a Spinner for Image Loading:</b> <br>
+
+   * <b>Add a Spinner for Image Loading:</b> <br>
 Introduce a spinner to display while images are loading. This visual feedback will improve the user experience by indicating that content is being loaded, thus maintaining engagement and reducing perceived wait times.<br>
   
+<br><br>
 
+* <h4>What would you do differently if you were allocated more time?</h4>
 
-* What would you do differently if you were allocated more time?
-
-1. <b>Implement Server-Side Rendering for Components:</b> <br> 
+  * <b>Implement Server-Side Rendering for Components:</b> <br> 
 Utilize a server-side rendering solution like Next.js to render some components on the server. This approach will enhance the user experience by reducing load times and improving performance.
 
-2. <b>Integrate a State Management Solution:</b> <br>  
+  * <b>Integrate a State Management Solution:</b> <br>  
 Add a state management solution such as Redux or React Context API, depending on the team's preference. This will simplify state management within the app, making it easier to handle complex state logic and improving overall maintainability.
 
 The app structure may like this:
 
+<img src="/assets/app-structure.png" alt="app strucure" width="70%" height="70%"> <br>
 
+
+1. Get initial data (entries like series and movies list) from database in sever components and render in server.
+2. Shows series and movies list to browser.
+3. Hydrate entries data to state management store. (Easy for client component to use)
+4. User do some actions and call apis to mutate database.(Like add it to favorites.)
+5. Update state store and mutate data in database.
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -125,9 +137,9 @@ The app structure may like this:
 
 ### Deploy (Code sandbox)
 
-URL: 
+<a href="https://cs2l24-8080.csb.app/" target="_blank">https://cs2l24-8080.csb.app/</a>
 
-
+<a href="https://codesandbox.io/p/github/Daniel54088/stan-coding-test/main?layout=%257B%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522rootPanelGroup%2522%253A%257B%2522direction%2522%253A%2522horizontal%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522id%2522%253A%2522ROOT_LAYOUT%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522clxws2pge00063b6kx28op86s%2522%252C%2522sizes%2522%253A%255B59.39323220536756%252C40.60676779463244%255D%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522EDITOR%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522id%2522%253A%2522clxws2pge00023b6khdy6qnqz%2522%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522SHELLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522SHELLS%2522%252C%2522id%2522%253A%2522clxws2pge00043b6k06x1iypz%2522%257D%255D%252C%2522sizes%2522%253A%255B100%255D%257D%255D%257D%252C%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522DEVTOOLS%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL%2522%252C%2522contentType%2522%253A%2522DEVTOOLS%2522%252C%2522id%2522%253A%2522clxws2pge00053b6kf8wpdn88%2522%257D%255D%252C%2522sizes%2522%253A%255B100%255D%257D%255D%252C%2522sizes%2522%253A%255B49.93431215071256%252C50.06568784928744%255D%257D%252C%2522tabbedPanels%2522%253A%257B%2522clxws2pge00023b6khdy6qnqz%2522%253A%257B%2522id%2522%253A%2522clxws2pge00023b6khdy6qnqz%2522%252C%2522activeTabId%2522%253A%2522clxws6mk000gp3b6kozqhqfrh%2522%252C%2522tabs%2522%253A%255B%257B%2522id%2522%253A%2522clxws2pgd00013b6kxzen3dz8%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252FREADME.md%2522%252C%2522state%2522%253A%2522IDLE%2522%257D%252C%257B%2522type%2522%253A%2522FILE%2522%252C%2522filepath%2522%253A%2522%252F.codesandbox%252Ftasks.json%2522%252C%2522id%2522%253A%2522clxws6mk000gp3b6kozqhqfrh%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522state%2522%253A%2522IDLE%2522%257D%255D%257D%252C%2522clxws2pge00053b6kf8wpdn88%2522%253A%257B%2522id%2522%253A%2522clxws2pge00053b6kf8wpdn88%2522%252C%2522activeTabId%2522%253A%2522cly2j8bwt004z3b6kvxka51kd%2522%252C%2522tabs%2522%253A%255B%257B%2522type%2522%253A%2522TASK_PORT%2522%252C%2522port%2522%253A8080%252C%2522taskId%2522%253A%2522start%2522%252C%2522id%2522%253A%2522cly2j8bwt004z3b6kvxka51kd%2522%252C%2522mode%2522%253A%2522permanent%2522%252C%2522path%2522%253A%2522%252F%2522%257D%255D%257D%252C%2522clxws2pge00043b6k06x1iypz%2522%253A%257B%2522id%2522%253A%2522clxws2pge00043b6k06x1iypz%2522%252C%2522activeTabId%2522%253A%2522clxwvt2kr00ck3b6ke6sgnjyz%2522%252C%2522tabs%2522%253A%255B%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522start%2522%252C%2522id%2522%253A%2522clxwvt2kr00ck3b6ke6sgnjyz%2522%252C%2522mode%2522%253A%2522permanent%2522%257D%255D%257D%257D%252C%2522showDevtools%2522%253Atrue%252C%2522showShells%2522%253Atrue%252C%2522showSidebar%2522%253Atrue%252C%2522sidebarPanelSize%2522%253A15%257D" target="_blank">Codesand box</a>
 
 
 
